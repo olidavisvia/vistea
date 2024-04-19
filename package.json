@@ -1,6 +1,6 @@
 {
   "name": "vistea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -24,6 +24,7 @@
     "takentea": "^0.1.3",
     "ttlonger": "^0.1.2",
     "wakinjoseph": "^0.1.3",
+    "wiftea": "^0.1.1",
     "zdaface": "^0.1.3"
   },
   "devDependencies": {
